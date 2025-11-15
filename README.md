@@ -2,6 +2,11 @@ Hola, soy Fernando Yael Herrera Tamayo
 
 Soy un desarrollador de software (Futuro Ingeniero Informatico) apasionado por crear soluciones eficientes y bien estructuradas. Donde puedo combinar lógica, diseño y buenas prácticas de ingeniería. Me gusta liderar equipos de manera efectiva y responsable, considerando diferentes soluciones y valorando la opinión de los demás. Disfruto ser creativo, didáctico y contribuir a un ambiente de trabajo colaborativo mientras sigo aprendiendo y mejorando cada día.
 
+Idiomas:
+
+Español nativo.
+Ingles fluido C1
+
 Áreas que más me motivan:
 
 Desarrollo móvil (Android – Jetpack Compose / Kotlin)
