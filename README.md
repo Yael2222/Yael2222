@@ -101,7 +101,7 @@ Docker
 
 Linux
 
-Cloud (AWS / Firebase / DigitalOcean)
+Cloud  (Supabase / DigitalOcean)
 
 JWT, OAuth
 
